@@ -1,4 +1,3 @@
-# AmazonReviewClassification
 Steps
 1. Download the dataset
    Click on the link - https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/ and download the 'Office Products 5-core' dataset.
